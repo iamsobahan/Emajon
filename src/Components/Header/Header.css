@@ -1,0 +1,45 @@
+.img {
+   
+    height: 80px;
+    padding: 10px 0;
+}
+
+nav {
+    background: black;
+    padding: 12px 15px;
+    text-align: start;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 12px 15px;
+    transition: .4s;
+}
+nav li a:hover {
+    background: lightgray;
+    color: black;
+}
+
+.inputMother{
+    background: rgba(0, 0, 0,.8);
+    padding: 20px 0;
+
+}
+
+input {
+    width: 50%;
+  
+    padding: 15px 10px;
+    border-radius: 3px;
+}
+
+.photo{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 0 20px;
+}
+

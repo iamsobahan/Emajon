@@ -1,0 +1,39 @@
+.Cart_flex {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    
+}
+
+.dFlex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img-div {
+    margin-right: 20px;
+}
+
+.h2 {
+    color: blue;
+    font-weight: 400;
+}
+
+button {
+  padding: 7px 40px;
+  background: goldenrod;
+  color : black;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  cursor: pointer;
+}
+ 
+
+.hello {
+    color: goldenrod;
+}

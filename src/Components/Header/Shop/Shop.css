@@ -1,0 +1,25 @@
+.Shop-grid {
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    grid-gap: 20px;
+    width: 1300px ;
+    margin-left: auto;
+    text-align: start;
+}
+.hi {
+    border-right: 1px solid lightgray;
+
+}
+
+.inputMother{
+    background: rgba(0, 0, 0,.8);
+    padding: 20px 0;
+
+}
+
+input {
+    width: 50%;
+  
+    padding: 15px 10px;
+    border-radius: 3px;
+}
